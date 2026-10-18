@@ -54,7 +54,7 @@ Seluruh sistem berjalan 100% di infrastruktur **Cloudflare Serverless Free Tier*
 * 🌐 **Web Application:** [https://kilat-mail.pages.dev](https://kilat-mail.pages.dev)
 * ⚡ **Worker API Endpoint:** [https://kilat-mail-worker.zzdree.workers.dev](https://kilat-mail-worker.zzdree.workers.dev)
 * 🩺 **Backend Health Check:** [https://kilat-mail-worker.zzdree.workers.dev/health](https://kilat-mail-worker.zzdree.workers.dev/health)
-* 📦 **GitHub Repository:** [https://github.com/zzdree/kilat-mail](https://github.com/zzdree/kilat-mail)
+* 📦 **GitHub Repository:** [https://gitlab.com/zzdree/kilat-mail](https://gitlab.com/zzdree/kilat-mail)
 
 ---
 
