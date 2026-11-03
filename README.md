@@ -1,4 +1,4 @@
-# ⚡ Kilat Mail v2.0
+﻿# ⚡ Kilat Mail v2.0
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zzdree/kilat-mail/main/web/public/vite.svg" width="64" height="64" alt="Kilat Mail Logo" />
@@ -158,4 +158,4 @@ npm run dev
 
 ## 📄 Lisensi
 
-MIT License © 2026 [zzdree](https://github.com/zzdree)
+MIT License © 2026 [zzdree](https://github.com/zzdevxx)
