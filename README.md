@@ -1,7 +1,7 @@
 ﻿# ⚡ Kilat Mail v2.0
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zzdree/kilat-mail/main/web/public/vite.svg" width="64" height="64" alt="Kilat Mail Logo" />
+  <img src="https://raw.githubusercontent.com/zzdevxx/kilat-mail/main/web/public/vite.svg" width="64" height="64" alt="Kilat Mail Logo" />
 </p>
 
 <h3 align="center">
@@ -54,7 +54,7 @@ Seluruh sistem berjalan 100% di infrastruktur **Cloudflare Serverless Free Tier*
 * 🌐 **Web Application:** [https://kilat-mail.pages.dev](https://kilat-mail.pages.dev)
 * ⚡ **Worker API Endpoint:** [https://kilat-mail-worker.zzdree.workers.dev](https://kilat-mail-worker.zzdree.workers.dev)
 * 🩺 **Backend Health Check:** [https://kilat-mail-worker.zzdree.workers.dev/health](https://kilat-mail-worker.zzdree.workers.dev/health)
-* 📦 **GitHub Repository:** [https://gitlab.com/zzdree/kilat-mail](https://gitlab.com/zzdree/kilat-mail)
+* 📦 **GitHub Repository:** [https://gitlab.com/zzdevxx/kilat-mail](https://gitlab.com/zzdevxx/kilat-mail)
 
 ---
 
@@ -158,4 +158,4 @@ npm run dev
 
 ## 📄 Lisensi
 
-MIT License © 2026 [zzdree](https://github.com/zzdevxx)
+MIT License © 2026 [zzdevxx](https://github.com/zzdevxx)

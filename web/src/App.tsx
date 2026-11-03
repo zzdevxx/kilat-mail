@@ -693,7 +693,7 @@ export function App() {
 
           <div className="flex items-center gap-4 text-[11px] text-zinc-400">
             <a
-              href="https://github.com/zzdree/kilat-mail"
+              href="https://github.com/zzdevxx/kilat-mail"
               target="_blank"
               rel="noreferrer"
               className="hover:text-emerald-400 transition-colors flex items-center gap-1"

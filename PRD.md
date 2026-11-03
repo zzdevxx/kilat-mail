@@ -4,7 +4,7 @@
 **Tagline:** *Serverless, Instant, and Privacy-First Temporary Email Service*  
 **Live Application:** [https://kilat-mail.pages.dev](https://kilat-mail.pages.dev)  
 **Live API Endpoint:** [https://kilat-mail-worker.zzdree.workers.dev](https://kilat-mail-worker.zzdree.workers.dev)  
-**Repository:** [zzdree/kilat-mail](https://github.com/zzdree/kilat-mail)  
+**Repository:** [zzdevxx/kilat-mail](https://github.com/zzdevxx/kilat-mail)  
 **Reference Inspiration:** [Threads Reference Post](https://www.threads.com/share/EhpxPkQAD/)  
 
 ---

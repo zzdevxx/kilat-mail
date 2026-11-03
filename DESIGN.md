@@ -1,7 +1,7 @@
 # Design System: Kilat Mail (⚡)
 
 **Project:** Kilat Mail  
-**Repository:** [zzdree/kilat-mail](https://github.com/zzdree/kilat-mail)  
+**Repository:** [zzdevxx/kilat-mail](https://github.com/zzdevxx/kilat-mail)  
 **Live URL:** [https://kilat-mail.pages.dev](https://kilat-mail.pages.dev)  
 
 ---
