@@ -1,4 +1,14 @@
-﻿# ⚡ Kilat Mail v2.0
+﻿> ## STATUS ARSIP: TIDAK AKTIF
+>
+> Repository ini berstatus arsip dan tidak aktif dikembangkan. Isi repository ini tidak diubah dan tidak ada rilis atau pemeliharaan lanjutan.
+>
+> Alasan pengarsipan: layanan frontend produksi `https://kilat-mail.pages.dev` merespons HTTP 404 (Not Found) pada 24 November 2026, sehingga aplikasi web tidak bisa diakses publik. Worker API `/health` masih merespons normal, tetapi frontend sebagai pintu akses utama sudah tidak tersedia.
+>
+> Repository ini tidak dihapus dan tetap utuh sebagai arsip kode.
+
+---
+
+# ⚡ Kilat Mail v2.0
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zzdevxx/kilat-mail/main/web/public/vite.svg" width="64" height="64" alt="Kilat Mail Logo" />
